@@ -1,0 +1,6 @@
+print ("\n Dispays a new line")
+print ("\t Displays a tab space")
+print ("\\ Displays a backslash")
+print ("\" Displays double quote")
+print ("\' Dislays single quote")
+print ("Kuba you are Brilliant")

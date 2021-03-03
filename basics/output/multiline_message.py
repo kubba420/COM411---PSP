@@ -1,0 +1,6 @@
+print("\nSystem Failure Immient!")
+print("System reboot has been initiated\n")
+print("...rebooting sensory system")
+print("...rebooting output motors")
+print("...rebooting sensory systems\n")
+print("System online")
